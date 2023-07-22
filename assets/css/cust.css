@@ -85,27 +85,18 @@
 }
 
 .sign-in-container {
-	left: 0;
-	width: 50%;
+	left: auto;
+	width: auto;
 	z-index: 2;
 }
 
-.bg-cont.right-panel-active .sign-in-container {
-	transform: translateX(100%);
-}
+
 
 .sign-up-container {
-	left: 0;
-	width: 50%;
+	left: auto;
+	width: auto;
 	opacity: 0;
 	z-index: 1;
-}
-
-.bg-cont.right-panel-active .sign-up-container {
-	transform: translateX(100%);
-	opacity: 1;
-	z-index: 5;
-	animation: show 0.6s;
 }
 
 @keyframes show {
