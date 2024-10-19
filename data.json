@@ -1,492 +1,492 @@
 [
-    {
-      "name": "Cartoon Network Telugu",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Telugu.png",
-      "genre": "Kids",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_166.m3u8"
-    },
-    {
-      "name": "ETV Cinema",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png",
-      "genre": "Movies",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_252.m3u8"
-    },
-    {
-      "name": "Nick Telugu",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png",
-      "genre": "Kids",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_543.m3u8"
-    },
-    {
-      "name": "Kushi TV",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Kushi_TV.png",
-      "genre": "Kids",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_558.m3u8"
-    },
-    {
-      "name": "ETV Abhiruchi",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png",
-      "genre": "Lifestyle",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_565.m3u8"
-    },
-    {
-      "name": "ETV Life",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Life.png",
-      "genre": "Infotainment",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_570.m3u8"
-    },
-    {
-      "name": "Discovery Telugu",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png",
-      "genre": "Infotainment",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_576.m3u8"
-    },
-    {
-      "name": "History TV18 HD Telugu",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png",
-      "genre": "Infotainment",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_577.m3u8"
-    },
-    {
-      "name": "Sri Venkateshwar Bhakti",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Venkateshwar_Bhakti.png",
-      "genre": "Devotional",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_598.m3u8"
-    },
-    {
-      "name": "Subhavartha TV",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Subhavartha_TV.png",
-      "genre": "Devotional",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_607.m3u8"
-    },
-    {
-      "name": "ETV Andhra pradesh",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png",
-      "genre": "News",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_614.m3u8"
-    },
-    {
-      "name": "TV9 Telugu News",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Telugu_News.png",
-      "genre": "News",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_618.m3u8"
-    },
-    {
-      "name": "ETV Telugu",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png",
-      "genre": "Entertainment",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_629.m3u8"
-    },
-    {
-      "name": "ETV Telangana",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telangana.png",
-      "genre": "News",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_630.m3u8"
-    },
-    {
-      "name": "Sakshi tv",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sakshi_tv.png",
-      "genre": "News",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_632.m3u8"
-    },
-    {
-      "name": "NTV",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/NTV.png",
-      "genre": "News",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_646.m3u8"
-    },
-    {
-      "name": "Raj News Telugu",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Telugu.png",
-      "genre": "News",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_664.m3u8"
-    },
-    {
-      "name": "HM TV",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/HM_TV.png",
-      "genre": "News",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_665.m3u8"
-    },
-    {
-      "name": "ABN Andhra Jyothi",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png",
-      "genre": "News",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_666.m3u8"
-    },
-    {
-      "name": "T News",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/T_News.png",
-      "genre": "News",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_667.m3u8"
-    },
-    {
-      "name": "TV 5 News",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_News.png",
-      "genre": "News",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_668.m3u8"
-    },
-    {
-      "name": "6 TV",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/6_TV.png",
-      "genre": "News",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_670.m3u8"
-    },
-    {
-      "name": "Gemini Life",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Life.png",
-      "genre": "Movies",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_684.m3u8"
-    },
-    {
-      "name": "ETV Plus",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png",
-      "genre": "Entertainment",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_692.m3u8"
-    },
-    {
-      "name": "DD Saptagiri",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png",
-      "genre": "Entertainment",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_706.m3u8"
-    },
-    {
-      "name": "Gemini Comedy",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Comedy.png",
-      "genre": "Entertainment",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_729.m3u8"
-    },
-    {
-      "name": "Vissa TV",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Vissa_TV.png",
-      "genre": "Entertainment",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_734.m3u8"
-    },
-    {
-      "name": "Raj Music Telugu",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png",
-      "genre": "Music",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_737.m3u8"
-    },
-    {
-      "name": "V6 News",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/V6_News.png",
-      "genre": "News",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_769.m3u8"
-    },
-    {
-      "name": "CVR OM Spiritual",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_OM_Spiritual.png",
-      "genre": "Devotional",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_772.m3u8"
-    },
-    {
-      "name": "CVR Health",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_Health.png",
-      "genre": "Infotainment",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_774.m3u8"
-    },
-    {
-      "name": "Vanitha",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Vanitha.png",
-      "genre": "Infotainment",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_775.m3u8"
-    },
-    {
-      "name": "Bhakti TV",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_TV.png",
-      "genre": "Devotional",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_776.m3u8"
-    },
-    {
-      "name": "Aradhana TV",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aradhana_TV.png",
-      "genre": "Devotional",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_777.m3u8"
-    },
-    {
-      "name": "CVR News",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_News.png",
-      "genre": "News",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_784.m3u8"
-    },
-    {
-      "name": "I News",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/I_News.png",
-      "genre": "News",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_790.m3u8"
-    },
-    {
-      "name": "10 TV",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/10_TV.png",
-      "genre": "News",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_832.m3u8"
-    },
-    {
-      "name": "Sony Yay Telugu",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telugu.png",
-      "genre": "Kids",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_874.m3u8"
-    },
-    {
-      "name": "Gemini TV HD",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_TV_HD.png",
-      "genre": "Entertainment",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_897.m3u8"
-    },
-    {
-      "name": "Gemini Music HD",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Music_HD.png",
-      "genre": "Music",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_898.m3u8"
-    },
-    {
-      "name": "Gemini Movies HD",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png",
-      "genre": "Movies",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_899.m3u8"
-    },
-    {
-      "name": "Divya Vani",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Divya_Vani.png",
-      "genre": "Devotional",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_934.m3u8"
-    },
-    {
-      "name": "Hindu Dharmam",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Hindu_Dharmam.png",
-      "genre": "Devotional",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_955.m3u8"
-    },
-    {
-      "name": "Calvary",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Calvary.png",
-      "genre": "Devotional",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_977.m3u8"
-    },
-    {
-      "name": "CN HD+ Telugu",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png",
-      "genre": "Kids",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_1080.m3u8"
-    },
-    {
-      "name": "TEST9 HD",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST9_HD.png",
-      "genre": "Infotainment",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_1229.m3u8"
-    },
-    {
-      "name": "Sonic Telugu",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png",
-      "genre": "Kids",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_1242.m3u8"
-    },
-    {
-      "name": "Aastha Telugu",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png",
-      "genre": "Devotional",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_1254.m3u8"
-    },
-    {
-      "name": "Studio One",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_One.png",
-      "genre": "News",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_1274.m3u8"
-    },
-    {
-      "name": "AP-BIE-ARTS",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_ARTS.png",
-      "genre": "Educational",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_1565.m3u8"
-    },
-    {
-      "name": "AP-BIE-SCIENCE",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_SCIENCE.png",
-      "genre": "Educational",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_1566.m3u8"
-    },
-    {
-      "name": "AP-CIE-SIVE",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AP_CIE_SIVE.png",
-      "genre": "Educational",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_1567.m3u8"
-    },
-    {
-      "name": "ETV Cinema HD",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema_HD.png",
-      "genre": "Movies",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_1665.m3u8"
-    },
-    {
-      "name": "Sony Ten 4 HD Telugu",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png",
-      "genre": "Sports",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_1773.m3u8"
-    },
-    {
-      "name": "Sony Ten 4 Telugu",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Telugu.png",
-      "genre": "Sports",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_1775.m3u8"
-    },
-    {
-      "name": "Studio Yuva Alpha",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_Yuva_Alpha.png",
-      "genre": "Entertainment",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_1799.m3u8"
-    },
-    {
-      "name": "Pogo Telugu",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Telugu.png",
-      "genre": "Kids",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_1883.m3u8"
-    },
-    {
-      "name": "ETV HD",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png",
-      "genre": "Entertainment",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_1973.m3u8"
-    },
-    {
-      "name": "PMC Telugu",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/PMC_Telugu.png",
-      "genre": "Devotional",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_1975.m3u8"
-    },
-    {
-      "name": "Swatantra News",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Swatantra_News.png",
-      "genre": "News",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_2187.m3u8"
-    },
-    {
-      "name": "Prime 9 News",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Prime_9_News.png",
-      "genre": "News",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_2436.m3u8"
-    },
-    {
-      "name": "Saregama Telugu",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Saregama_Telugu.png",
-      "genre": "Music",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_2745.m3u8"
-    },
-    {
-      "name": "Big TV",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Big_TV.png",
-      "genre": "News",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_2783.m3u8"
-    },
-    {
-      "name": "Mahaa News",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Mahaa_News.png",
-      "genre": "News",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_2862.m3u8"
-    },
-    {
-      "name": "99 TV",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/99TV.png",
-      "genre": "News",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_2932.m3u8"
-    },
-    {
-      "name": "ETV Plus HD",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus_HD.png",
-      "genre": "Entertainment",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_2956.m3u8"
-    },
-    {
-      "name": "India Now",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/India_Now.png",
-      "genre": "News",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_3009.m3u8"
-    },
-    {
-      "name": "News 360",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News_360.png",
-      "genre": "News",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_3018.m3u8"
-    },
-    {
-      "name": "Zee Telugu News",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu_News.png",
-      "genre": "News",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_3031.m3u8"
-    },
-    {
-      "name": "Sai TV Telugu",
-      "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sai_TV_Telugu.png",
-      "genre": "Devotional",
-      "language": "Telugu",
-      "url": "http://localhost:80/app/ts_live_3087.m3u8"
-    }
-  ]
+  {
+    "name": "Cartoon Network Telugu",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Telugu.png",
+    "genre": "Kids",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_166.m3u8"
+  },
+  {
+    "name": "ETV Cinema",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png",
+    "genre": "Movies",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_252.m3u8"
+  },
+  {
+    "name": "Nick Telugu",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png",
+    "genre": "Kids",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_543.m3u8"
+  },
+  {
+    "name": "Kushi TV",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Kushi_TV.png",
+    "genre": "Kids",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_558.m3u8"
+  },
+  {
+    "name": "ETV Abhiruchi",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png",
+    "genre": "Lifestyle",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_565.m3u8"
+  },
+  {
+    "name": "ETV Life",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Life.png",
+    "genre": "Infotainment",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_570.m3u8"
+  },
+  {
+    "name": "Discovery Telugu",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png",
+    "genre": "Infotainment",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_576.m3u8"
+  },
+  {
+    "name": "History TV18 HD Telugu",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png",
+    "genre": "Infotainment",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_577.m3u8"
+  },
+  {
+    "name": "Sri Venkateshwar Bhakti",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Venkateshwar_Bhakti.png",
+    "genre": "Devotional",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_598.m3u8"
+  },
+  {
+    "name": "Subhavartha TV",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Subhavartha_TV.png",
+    "genre": "Devotional",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_607.m3u8"
+  },
+  {
+    "name": "ETV Andhra pradesh",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png",
+    "genre": "News",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_614.m3u8"
+  },
+  {
+    "name": "TV9 Telugu News",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Telugu_News.png",
+    "genre": "News",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_618.m3u8"
+  },
+  {
+    "name": "ETV Telugu",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png",
+    "genre": "Entertainment",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_629.m3u8"
+  },
+  {
+    "name": "ETV Telangana",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telangana.png",
+    "genre": "News",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_630.m3u8"
+  },
+  {
+    "name": "Sakshi tv",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sakshi_tv.png",
+    "genre": "News",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_632.m3u8"
+  },
+  {
+    "name": "NTV",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/NTV.png",
+    "genre": "News",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_646.m3u8"
+  },
+  {
+    "name": "Raj News Telugu",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Telugu.png",
+    "genre": "News",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_664.m3u8"
+  },
+  {
+    "name": "HM TV",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/HM_TV.png",
+    "genre": "News",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_665.m3u8"
+  },
+  {
+    "name": "ABN Andhra Jyothi",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png",
+    "genre": "News",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_666.m3u8"
+  },
+  {
+    "name": "T News",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/T_News.png",
+    "genre": "News",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_667.m3u8"
+  },
+  {
+    "name": "TV 5 News",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_News.png",
+    "genre": "News",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_668.m3u8"
+  },
+  {
+    "name": "6 TV",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/6_TV.png",
+    "genre": "News",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_670.m3u8"
+  },
+  {
+    "name": "Gemini Life",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Life.png",
+    "genre": "Movies",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_684.m3u8"
+  },
+  {
+    "name": "ETV Plus",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png",
+    "genre": "Entertainment",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_692.m3u8"
+  },
+  {
+    "name": "DD Saptagiri",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png",
+    "genre": "Entertainment",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_706.m3u8"
+  },
+  {
+    "name": "Gemini Comedy",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Comedy.png",
+    "genre": "Entertainment",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_729.m3u8"
+  },
+  {
+    "name": "Vissa TV",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Vissa_TV.png",
+    "genre": "Entertainment",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_734.m3u8"
+  },
+  {
+    "name": "Raj Music Telugu",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png",
+    "genre": "Music",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_737.m3u8"
+  },
+  {
+    "name": "V6 News",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/V6_News.png",
+    "genre": "News",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_769.m3u8"
+  },
+  {
+    "name": "CVR OM Spiritual",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_OM_Spiritual.png",
+    "genre": "Devotional",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_772.m3u8"
+  },
+  {
+    "name": "CVR Health",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_Health.png",
+    "genre": "Infotainment",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_774.m3u8"
+  },
+  {
+    "name": "Vanitha",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Vanitha.png",
+    "genre": "Infotainment",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_775.m3u8"
+  },
+  {
+    "name": "Bhakti TV",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_TV.png",
+    "genre": "Devotional",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_776.m3u8"
+  },
+  {
+    "name": "Aradhana TV",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aradhana_TV.png",
+    "genre": "Devotional",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_777.m3u8"
+  },
+  {
+    "name": "CVR News",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_News.png",
+    "genre": "News",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_784.m3u8"
+  },
+  {
+    "name": "I News",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/I_News.png",
+    "genre": "News",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_790.m3u8"
+  },
+  {
+    "name": "10 TV",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/10_TV.png",
+    "genre": "News",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_832.m3u8"
+  },
+  {
+    "name": "Sony Yay Telugu",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telugu.png",
+    "genre": "Kids",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_874.m3u8"
+  },
+  {
+    "name": "Gemini TV HD",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_TV_HD.png",
+    "genre": "Entertainment",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_897.m3u8"
+  },
+  {
+    "name": "Gemini Music HD",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Music_HD.png",
+    "genre": "Music",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_898.m3u8"
+  },
+  {
+    "name": "Gemini Movies HD",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png",
+    "genre": "Movies",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_899.m3u8"
+  },
+  {
+    "name": "Divya Vani",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Divya_Vani.png",
+    "genre": "Devotional",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_934.m3u8"
+  },
+  {
+    "name": "Hindu Dharmam",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Hindu_Dharmam.png",
+    "genre": "Devotional",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_955.m3u8"
+  },
+  {
+    "name": "Calvary",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Calvary.png",
+    "genre": "Devotional",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_977.m3u8"
+  },
+  {
+    "name": "CN HD+ Telugu",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png",
+    "genre": "Kids",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_1080.m3u8"
+  },
+  {
+    "name": "TEST9 HD",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST9_HD.png",
+    "genre": "Infotainment",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_1229.m3u8"
+  },
+  {
+    "name": "Sonic Telugu",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png",
+    "genre": "Kids",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_1242.m3u8"
+  },
+  {
+    "name": "Aastha Telugu",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png",
+    "genre": "Devotional",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_1254.m3u8"
+  },
+  {
+    "name": "Studio One",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_One.png",
+    "genre": "News",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_1274.m3u8"
+  },
+  {
+    "name": "AP-BIE-ARTS",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_ARTS.png",
+    "genre": "Educational",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_1565.m3u8"
+  },
+  {
+    "name": "AP-BIE-SCIENCE",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_SCIENCE.png",
+    "genre": "Educational",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_1566.m3u8"
+  },
+  {
+    "name": "AP-CIE-SIVE",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AP_CIE_SIVE.png",
+    "genre": "Educational",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_1567.m3u8"
+  },
+  {
+    "name": "ETV Cinema HD",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema_HD.png",
+    "genre": "Movies",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_1665.m3u8"
+  },
+  {
+    "name": "Sony Ten 4 HD Telugu",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png",
+    "genre": "Sports",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_1773.m3u8"
+  },
+  {
+    "name": "Sony Ten 4 Telugu",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Telugu.png",
+    "genre": "Sports",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_1775.m3u8"
+  },
+  {
+    "name": "Studio Yuva Alpha",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_Yuva_Alpha.png",
+    "genre": "Entertainment",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_1799.m3u8"
+  },
+  {
+    "name": "Pogo Telugu",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Telugu.png",
+    "genre": "Kids",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_1883.m3u8"
+  },
+  {
+    "name": "ETV HD",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png",
+    "genre": "Entertainment",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_1973.m3u8"
+  },
+  {
+    "name": "PMC Telugu",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/PMC_Telugu.png",
+    "genre": "Devotional",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_1975.m3u8"
+  },
+  {
+    "name": "Swatantra News",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Swatantra_News.png",
+    "genre": "News",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_2187.m3u8"
+  },
+  {
+    "name": "Prime 9 News",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Prime_9_News.png",
+    "genre": "News",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_2436.m3u8"
+  },
+  {
+    "name": "Saregama Telugu",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Saregama_Telugu.png",
+    "genre": "Music",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_2745.m3u8"
+  },
+  {
+    "name": "Big TV",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Big_TV.png",
+    "genre": "News",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_2783.m3u8"
+  },
+  {
+    "name": "Mahaa News",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Mahaa_News.png",
+    "genre": "News",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_2862.m3u8"
+  },
+  {
+    "name": "99 TV",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/99TV.png",
+    "genre": "News",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_2932.m3u8"
+  },
+  {
+    "name": "ETV Plus HD",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus_HD.png",
+    "genre": "Entertainment",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_2956.m3u8"
+  },
+  {
+    "name": "India Now",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/India_Now.png",
+    "genre": "News",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_3009.m3u8"
+  },
+  {
+    "name": "News 360",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News_360.png",
+    "genre": "News",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_3018.m3u8"
+  },
+  {
+    "name": "Zee Telugu News",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu_News.png",
+    "genre": "News",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_3031.m3u8"
+  },
+  {
+    "name": "Sai TV Telugu",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sai_TV_Telugu.png",
+    "genre": "Devotional",
+    "language": "Telugu",
+    "url": "https://svdearn.svdsolutions.in:443/app/ts_live_3087.m3u8"
+  }
+]
